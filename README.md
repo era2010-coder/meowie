@@ -1,1 +1,1 @@
-# meowie is a website in PHP
+# meowie is a website in HTML
